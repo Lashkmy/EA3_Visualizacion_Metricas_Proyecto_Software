@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+plotly
+bokeh
+geopandas
+pyogrio
+shapely
